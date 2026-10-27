@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,List_Price,Supplier_ID
+P1001,Smartphone,Electronics,Electronics - Smartphone,6918.66,9398,S003
+P1002,Laptop,Electronics,Electronics - Laptop,5504.24,9834,S010
+P1003,Headphones,Electronics,Electronics - Headphones,54557.78,75817,S005
+P1004,Power Bank,Electronics,Electronics - Power Bank,40113.46,74314,S007
+P1005,Smart Watch,Electronics,Electronics - Smart Watch,48791.03,77458,S001
+P1006,Keyboard,Electronics,Electronics - Keyboard,58097.33,87406,S003
+P1007,Mouse,Electronics,Electronics - Mouse,34205.42,45554,S005
+P1008,Monitor,Electronics,Electronics - Monitor,50421.81,87124,S006
+P1009,Speaker,Electronics,Electronics - Speaker,30902.97,42470,S012
+P1010,Tablet,Electronics,Electronics - Tablet,31265.51,40187,S004
+P1011,T-Shirt,Fashion,Fashion - T-Shirt,7121.87,9735,S008
+P1012,Jeans,Fashion,Fashion - Jeans,7303.88,10059,S010
+P1013,Sneakers,Fashion,Fashion - Sneakers,5973.64,8579,S001
+P1014,Jacket,Fashion,Fashion - Jacket,2257.39,3247,S006
+P1015,Handbag,Fashion,Fashion - Handbag,6429.47,9273,S010
+P1016,Wallet,Fashion,Fashion - Wallet,4779.99,7392,S003
+P1017,Watch,Fashion,Fashion - Watch,6253.85,10299,S012
+P1018,Cap,Fashion,Fashion - Cap,3947.65,5438,S010
+P1019,Belt,Fashion,Fashion - Belt,2695.29,5114,S002
+P1020,Sunglasses,Fashion,Fashion - Sunglasses,6314.28,9350,S002
+P1021,Blender,Home & Kitchen,Home & Kitchen - Blender,5872.59,9203,S003
+P1022,Kettle,Home & Kitchen,Home & Kitchen - Kettle,6416.83,11529,S002
+P1023,Cookware Set,Home & Kitchen,Home & Kitchen - Cookware Set,4162.12,6909,S010
+P1024,Bedsheet,Home & Kitchen,Home & Kitchen - Bedsheet,8538.89,14128,S006
+P1025,Lamp,Home & Kitchen,Home & Kitchen - Lamp,4849.5,8322,S009
+P1026,Storage Box,Home & Kitchen,Home & Kitchen - Storage Box,8031.68,10636,S011
+P1027,Chair,Home & Kitchen,Home & Kitchen - Chair,8487.86,12107,S002
+P1028,Water Bottle,Home & Kitchen,Home & Kitchen - Water Bottle,1330.79,1977,S001
+P1029,Toaster,Home & Kitchen,Home & Kitchen - Toaster,8468.17,12060,S010
+P1030,Pillow,Home & Kitchen,Home & Kitchen - Pillow,11735.43,16689,S005
+P1031,Face Wash,Beauty,Beauty - Face Wash,5124.99,6720,S001
+P1032,Moisturizer,Beauty,Beauty - Moisturizer,3332.79,4780,S012
+P1033,Perfume,Beauty,Beauty - Perfume,1398.25,2052,S011
+P1034,Shampoo,Beauty,Beauty - Shampoo,1523.64,2704,S011
+P1035,Sunscreen,Beauty,Beauty - Sunscreen,596.25,982,S003
+P1036,Lipstick,Beauty,Beauty - Lipstick,5294.9,6586,S002
+P1037,Hair Oil,Beauty,Beauty - Hair Oil,318.76,502,S004
+P1038,Body Lotion,Beauty,Beauty - Body Lotion,4119.36,6751,S012
+P1039,Serum,Beauty,Beauty - Serum,1128.92,1977,S007
+P1040,Makeup Kit,Beauty,Beauty - Makeup Kit,5108.8,6793,S011
+P1041,Yoga Mat,Sports,Sports - Yoga Mat,1238.35,2004,S001
+P1042,Dumbbells,Sports,Sports - Dumbbells,4352.72,5792,S002
+P1043,Football,Sports,Sports - Football,7941.68,14231,S001
+P1044,Cricket Bat,Sports,Sports - Cricket Bat,2321.92,2935,S008
+P1045,Skipping Rope,Sports,Sports - Skipping Rope,12295.18,14971,S006
+P1046,Gym Gloves,Sports,Sports - Gym Gloves,282.68,504,S003
+P1047,Sports Bottle,Sports,Sports - Sports Bottle,3425.4,4659,S010
+P1048,Resistance Bands,Sports,Sports - Resistance Bands,9078.91,12120,S009
+P1049,Tennis Racket,Sports,Sports - Tennis Racket,5557.03,8639,S012
+P1050,Backpack,Sports,Sports - Backpack,6114.77,10044,S012
+P1051,Notebook,Stationery,Stationery - Notebook,1019.63,1423,S011
+P1052,Pen Set,Stationery,Stationery - Pen Set,66.95,95,S012
+P1053,Calculator,Stationery,Stationery - Calculator,924.33,1211,S011
+P1054,Desk Organizer,Stationery,Stationery - Desk Organizer,406.19,686,S010
+P1055,Marker Set,Stationery,Stationery - Marker Set,1540.47,2179,S004
+P1056,File Folder,Stationery,Stationery - File Folder,280.07,355,S008
+P1057,Stapler,Stationery,Stationery - Stapler,489.82,652,S011
+P1058,Art Kit,Stationery,Stationery - Art Kit,695.34,1230,S008
+P1059,Planner,Stationery,Stationery - Planner,344.75,428,S008
+P1060,Pencil Case,Stationery,Stationery - Pencil Case,622.39,1182,S002
